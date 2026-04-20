@@ -383,7 +383,7 @@ function App() {
     {
       company: "NiftyMoney",
       role: "Full Stack Developer & AI Lead",
-      period: "2022 - Present",
+      period: "2024 - Present",
       description: "Leading AI integration initiatives, implementing LLM-powered features, and building automated workflows. Managed FinTech infrastructure with 99.9% uptime."
     },
     {
