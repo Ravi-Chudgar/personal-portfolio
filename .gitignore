@@ -3,3 +3,7 @@ dist/
 .tsbuildinfo
 *.log
 .DS_Store
+.claude/
+tsconfig.json
+tsconfig.node.tsbuildinfo
+tsconfig.tsbuildinfo
